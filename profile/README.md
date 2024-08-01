@@ -1,12 +1,20 @@
-## Hi there 👋
+## 欢迎来到蓝网github 👋
 
-<!--
+### 组织介绍
+- 广东海洋大学机械工程学院优秀竞赛团队；团队分为三大方向：电控、结构、视觉；
+- 各种参赛代码或者学习成果都可以放入团队代码仓库，通过多次迭代和优化来提高代码效率，一方面可以提高团队实力，另一方面也为代码的优化提供了更多空间
 
-**Here are some ideas to get you started:**
+### 组织要求
+- 以后每个加入蓝网gitee组织的成员要把自己好的优秀的可以公开的项目上传到这里，这里有很多师兄留下来的项目或者驱动代码了，每个人上传时要按照师兄的风格来，**项目文件要包含全**，**内容说明要有**，方便传承给以后的师弟
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- 一般上传代码在比赛结束后，最好是有获奖的队伍上传，相当于写一次赛后总结报告
+
+- 平时有空自己做的写的驱动代码或者小项目也可以上传，平时养成良好的上传习惯，以后出来找工作面试gitee对你来说也是一份好的简历
+
+
+### 不知道做什么项目的看这里，总有一个是你感兴趣的
+- https://space.bilibili.com/73775974/favlist?fid=1807258274&ftype=create
+
+
+### 地址
+- 广东海洋大学工程训练中心103
